@@ -1,7 +1,7 @@
 # Interfaces WEB 
 
 
-![Capa do Projeto](./pagina-cobranca)
+![Capa do Projeto](./pagina-cobranca.png)
 
 # Sobre o Projeto
 
